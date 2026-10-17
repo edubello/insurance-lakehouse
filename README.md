@@ -7,7 +7,7 @@
 
 > **Projeto de Portfólio & Demonstração Técnica**  
 > **Autor:** Edu Bello | Data Engineering & Analytics  
-> **Contato & Perfil:** [LinkedIn](https://linkedin.com/in/) | [GitHub](https://github.com/)
+> **Contato & Perfil:** [LinkedIn](https://linkedin.com/in/) | [GitHub](https://github.com/edubello)
 
 ---
 
